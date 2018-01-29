@@ -1,0 +1,146 @@
+<!DOCTYPE qgis_bookmarks>
+<qgis_bookmarks>
+  <bookmark>
+    <id>1</id>
+    <name>Sakakah, Saudi Arabia</name>
+    <project>GPW_minus_BM.qgs</project>
+    <xmin>11386.8453670695</xmin>
+    <ymin>-3186.24155596942</ymin>
+    <xmax>11488.3952363359</xmax>
+    <ymax>-3120.38187812209</ymax>
+    <sr_id>3146</sr_id>
+  </bookmark>
+  <bookmark>
+    <id>2</id>
+    <name>Hail, Saudi Arabia</name>
+    <project>GPW_minus_BM.qgs</project>
+    <xmin>11488.6451761537</xmin>
+    <ymin>-3338.32451719623</ymin>
+    <xmax>11606.8349168006</xmax>
+    <ymax>-3261.67313103395</ymax>
+    <sr_id>3146</sr_id>
+  </bookmark>
+  <bookmark>
+    <id>3</id>
+    <name>Wadi ad-Dawasir, Saudi Arabia</name>
+    <project>GPW_minus_BM.qgs</project>
+    <xmin>11710.41507145</xmin>
+    <ymin>-3758.81362690517</ymin>
+    <xmax>11805.7006900745</xmax>
+    <ymax>-3697.01659859351</ymax>
+    <sr_id>3146</sr_id>
+  </bookmark>
+  <bookmark>
+    <id>4</id>
+    <name>Kanggye, North Korea</name>
+    <project>GPW_minus_BM.qgs</project>
+    <xmin>16623.9604046867</xmin>
+    <ymin>-2525.14580787844</ymin>
+    <xmax>16728.3408340286</xmax>
+    <ymax>-2457.45038394849</ymax>
+    <sr_id>3146</sr_id>
+  </bookmark>
+  <bookmark>
+    <id>5</id>
+    <name>Puerto Ayacucho, Venezuela</name>
+    <project>GPW_minus_BM.qgs</project>
+    <xmin>4915.06961776901</xmin>
+    <ymin>-4635.89181423683</ymin>
+    <xmax>4956.91303052834</xmax>
+    <ymax>-4607.94120650249</ymax>
+    <sr_id>3146</sr_id>
+  </bookmark>
+  <bookmark>
+    <id>6</id>
+    <name>Letlhakane, Botswana</name>
+    <project>GPW_minus_BM.qgs</project>
+    <xmin>10423.2810975512</xmin>
+    <ymin>-6187.14682684523</ymin>
+    <xmax>10462.4234223244</xmax>
+    <ymax>-6161.00049476092</ymax>
+    <sr_id>3146</sr_id>
+  </bookmark>
+  <bookmark>
+    <id>7</id>
+    <name>Los Angeles, USA</name>
+    <project>GPW_minus_BM.qgs</project>
+    <xmin>1795.53705273214</xmin>
+    <ymin>-2961.85895270877</ymin>
+    <xmax>1969.27643558343</xmax>
+    <ymax>-2845.80433340669</ymax>
+    <sr_id>3146</sr_id>
+  </bookmark>
+  <bookmark>
+    <id>8</id>
+    <name>Hassi Messaoud, Algeria</name>
+    <project>GPW_minus_BM.qgs</project>
+    <xmin>9183.09565398754</xmin>
+    <ymin>-3194.19558359621</ymin>
+    <xmax>9635.32705894622</xmax>
+    <ymax>-2892.11356466877</ymax>
+    <sr_id>3146</sr_id>
+  </bookmark>
+  <bookmark>
+    <id>9</id>
+    <name>Ouargla, Algeria</name>
+    <project>GPW_minus_BM.qgs</project>
+    <xmin>9450.14434607525</xmin>
+    <ymin>-3252.21279399628</ymin>
+    <xmax>9503.53648361465</xmax>
+    <ymax>-3216.5478566967</ymax>
+    <sr_id>3146</sr_id>
+  </bookmark>
+  <bookmark>
+    <id>10</id>
+    <name>Algeria</name>
+    <project>GPW_minus_BM.qgs</project>
+    <xmin>9216.12896704215</xmin>
+    <ymin>-3349.77555636125</ymin>
+    <xmax>9789.00706144361</xmax>
+    <ymax>-2967.10383241958</ymax>
+    <sr_id>3146</sr_id>
+  </bookmark>
+  <bookmark>
+    <id>11</id>
+    <name>Tripoli, Libya</name>
+    <project>GPW_minus_BM.qgs</project>
+    <xmin>9627.03797875991</xmin>
+    <ymin>-3115.29311866854</ymin>
+    <xmax>9913.47702596064</xmax>
+    <ymax>-2923.9572566977</ymax>
+    <sr_id>3146</sr_id>
+  </bookmark>
+  <bookmark>
+    <id>12</id>
+    <name>Hassi Messaoud Oil Region, Algeria
+
+
+</name>
+    <project>Untitled.qgs</project>
+    <xmin>9021.17683864745</xmin>
+    <ymin>-3440.99694970931</ymin>
+    <xmax>9925.6396485648</xmax>
+    <ymax>-2836.83291185442</ymax>
+    <sr_id>3146</sr_id>
+  </bookmark>
+  <bookmark>
+    <id>14</id>
+    <name>Texas, United States</name>
+    <project>GPW_minus_BM.qgs</project>
+    <xmin>2450.05693249972</xmin>
+    <ymin>-3428.47081581219</ymin>
+    <xmax>3526.89902563508</xmax>
+    <ymax>-2709.16067946704</ymax>
+    <sr_id>3146</sr_id>
+  </bookmark>
+  <bookmark>
+    <id>15</id>
+    <name>Blue Ocean Launch SIte Van Horn, Texas, United States</name>
+    <project>GPW_minus_BM.qgs</project>
+    <xmin>2678.22958990361</xmin>
+    <ymin>-3078.27314081945</ymin>
+    <xmax>2812.42446965028</xmax>
+    <ymax>-2988.63350111486</ymax>
+    <sr_id>3146</sr_id>
+  </bookmark>
+</qgis_bookmarks>
