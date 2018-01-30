@@ -2,4 +2,4 @@
 
 See `Raster Analysis.ipynb` for raster processing code.
 
-See `spatial_bookmarks.xml` importing bookmarked places into QGIS
+See `spatial_bookmarks.xml` for importing bookmarked places into QGIS
